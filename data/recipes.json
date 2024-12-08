@@ -1,0 +1,345 @@
+[
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "description": "A classic Roman pasta dish.",
+      "ingredients": [
+        "12 oz Spaghetti",
+        "4 Egg yolks",
+        "1 cup grated Parmesan cheese",
+        "4 oz Guanciale, diced",
+        "1 tsp Black pepper"
+      ],
+      "instructions": [
+        "Cook the spaghetti in salted boiling water until al dente.",
+        "Fry the guanciale in a pan until crispy.",
+        "Mix egg yolks and Parmesan cheese in a bowl.",
+        "Combine pasta, guanciale, and egg mixture.",
+        "Season with black pepper and serve."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti Bolognese",
+      "description": "A rich and hearty meat sauce.",
+      "ingredients": [
+        "12 oz Spaghetti",
+        "1 lb Ground beef",
+        "2 cups Tomato sauce",
+        "1 Onion, diced",
+        "2 cloves Garlic, minced",
+        "1 Carrot, diced",
+        "1 Celery stalk, diced",
+        "2 tbsp Olive oil",
+        "1 tsp Salt",
+        "1/2 tsp Pepper"
+      ],
+      "instructions": [
+        "Cook the spaghetti in salted boiling water until al dente.",
+        "Sauté onion, garlic, carrot, and celery in olive oil until softened.",
+        "Add ground beef and cook until browned.",
+        "Add tomato sauce and simmer for 20 minutes.",
+        "Combine pasta and sauce.",
+        "Season with salt and pepper and serve."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Penne Arrabbiata",
+      "description": "A spicy tomato sauce with penne pasta.",
+      "ingredients": [
+        "12 oz Penne",
+        "2 cups Tomato sauce",
+        "3 cloves Garlic, minced",
+        "1 tsp Red chili flakes",
+        "2 tbsp Olive oil",
+        "1/4 cup chopped Parsley",
+        "1 tsp Salt"
+      ],
+      "instructions": [
+        "Cook the penne in salted boiling water until al dente.",
+        "Sauté garlic and red chili flakes in olive oil until fragrant.",
+        "Add tomato sauce and simmer for 10 minutes.",
+        "Combine pasta and sauce.",
+        "Garnish with parsley and serve."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Fettuccine Alfredo",
+      "description": "A creamy white sauce with fettuccine pasta.",
+      "ingredients": [
+        "12 oz Fettuccine",
+        "1/2 cup Butter",
+        "1 cup Heavy cream",
+        "1 cup grated Parmesan cheese",
+        "2 cloves Garlic, minced",
+        "1 tsp Salt",
+        "1/2 tsp Pepper"
+      ],
+      "instructions": [
+        "Cook the fettuccine in salted boiling water until al dente.",
+        "Melt butter in a pan and sauté garlic until fragrant.",
+        "Add heavy cream and simmer for 5 minutes.",
+        "Stir in Parmesan cheese until melted.",
+        "Combine pasta and sauce.",
+        "Season with salt and pepper and serve."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Lasagna",
+      "description": "Layered pasta with meat and cheese.",
+      "ingredients": [
+        "12 Lasagna noodles",
+        "1 lb Ground beef",
+        "3 cups Tomato sauce",
+        "2 cups Ricotta cheese",
+        "2 cups shredded Mozzarella cheese",
+        "1 cup grated Parmesan cheese",
+        "1 Egg",
+        "1 Onion, diced",
+        "2 cloves Garlic, minced",
+        "2 tbsp Olive oil",
+        "1 tsp Salt",
+        "1/2 tsp Pepper"
+      ],
+      "instructions": [
+        "Cook the lasagna noodles in salted boiling water until al dente.",
+        "Sauté onion and garlic in olive oil until softened.",
+        "Add ground beef and cook until browned.",
+        "Add tomato sauce and simmer for 20 minutes.",
+        "Mix ricotta cheese, egg, and Parmesan cheese in a bowl.",
+        "Layer noodles, meat sauce, ricotta mixture, and mozzarella cheese in a baking dish.",
+        "Bake at 375°F for 30 minutes until bubbly and golden.",
+        "Let cool for 10 minutes and serve."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Pesto Pasta",
+      "description": "Pasta with a fresh basil pesto sauce.",
+      "ingredients": [
+        "12 oz Pasta",
+        "2 cups fresh Basil leaves",
+        "1/4 cup Pine nuts",
+        "1/2 cup grated Parmesan cheese",
+        "2 cloves Garlic",
+        "1/2 cup Olive oil",
+        "1 tsp Salt",
+        "1/2 tsp Pepper"
+      ],
+      "instructions": [
+        "Cook the pasta in salted boiling water until al dente.",
+        "Blend basil, pine nuts, Parmesan cheese, garlic, and olive oil in a food processor until smooth.",
+        "Combine pasta and pesto sauce.",
+        "Season with salt and pepper and serve."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Macaroni and Cheese",
+      "description": "A creamy and cheesy pasta dish.",
+      "ingredients": [
+        "12 oz Macaroni",
+        "2 cups shredded Cheddar cheese",
+        "2 cups Milk",
+        "1/4 cup Butter",
+        "1/4 cup Flour",
+        "1 tsp Salt",
+        "1/2 tsp Pepper"
+      ],
+      "instructions": [
+        "Cook the macaroni in salted boiling water until al dente.",
+        "Melt butter in a pan and stir in flour to make a roux.",
+        "Add milk and cook until thickened.",
+        "Stir in cheddar cheese until melted.",
+        "Combine pasta and cheese sauce.",
+        "Season with salt and pepper and serve."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Ravioli with Marinara Sauce",
+      "description": "Stuffed pasta with a rich tomato sauce.",
+      "ingredients": [
+        "12 oz Ravioli",
+        "2 cups Tomato sauce",
+        "3 cloves Garlic, minced",
+        "1 Onion, diced",
+        "2 tbsp Olive oil",
+        "1/4 cup chopped Basil",
+        "1 tsp Salt",
+        "1/2 tsp Pepper"
+      ],
+      "instructions": [
+        "Cook the ravioli in salted boiling water until al dente.",
+        "Sauté garlic and onion in olive oil until softened.",
+        "Add tomato sauce and simmer for 10 minutes.",
+        "Combine pasta and sauce.",
+        "Garnish with basil and serve."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Linguine with Clam Sauce",
+      "description": "Pasta with a savory clam sauce.",
+      "ingredients": [
+        "12 oz Linguine",
+        "2 lbs Clams, cleaned",
+        "4 cloves Garlic, minced",
+        "1 cup White wine",
+        "1/4 cup Olive oil",
+        "1/4 cup chopped Parsley",
+        "1 tsp Salt",
+        "1/2 tsp Pepper"
+      ],
+      "instructions": [
+        "Cook the linguine in salted boiling water until al dente.",
+        "Sauté garlic in olive oil until fragrant.",
+        "Add clams and white wine and cook until clams open.",
+        "Combine pasta and clam sauce.",
+        "Garnish with parsley and serve."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Tortellini Alfredo",
+      "description": "Cheese-filled pasta with a creamy Alfredo sauce.",
+      "ingredients": [
+        "12 oz Tortellini",
+        "1/2 cup Butter",
+        "1 cup Heavy cream",
+        "1 cup grated Parmesan cheese",
+        "2 cloves Garlic, minced",
+        "1 tsp Salt",
+        "1/2 tsp Pepper"
+      ],
+      "instructions": [
+        "Cook the tortellini in salted boiling water until al dente.",
+        "Melt butter in a pan and sauté garlic until fragrant.",
+        "Add heavy cream and simmer for 5 minutes.",
+        "Stir in Parmesan cheese until melted.",
+        "Combine pasta and sauce.",
+        "Season with salt and pepper and serve."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Shrimp Scampi",
+      "description": "Pasta with a garlic butter shrimp sauce.",
+      "ingredients": [
+        "12 oz Linguine",
+        "1 lb Shrimp, peeled and deveined",
+        "4 cloves Garlic, minced",
+        "1/2 cup Butter",
+        "1/4 cup Olive oil",
+        "1/4 cup Lemon juice",
+        "1/4 cup chopped Parsley",
+        "1 tsp Salt",
+        "1/2 tsp Pepper"
+      ],
+      "instructions": [
+        "Cook the linguine in salted boiling water until al dente.",
+        "Sauté garlic in olive oil until fragrant.",
+        "Add shrimp and cook until pink.",
+        "Add butter and lemon juice and cook until melted.",
+        "Combine pasta and shrimp sauce.",
+        "Garnish with parsley and serve."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Chicken Alfredo",
+      "description": "Pasta with a creamy Alfredo sauce and chicken.",
+      "ingredients": [
+        "12 oz Fettuccine",
+        "2 Chicken breasts, cooked and sliced",
+        "1/2 cup Butter",
+        "1 cup Heavy cream",
+        "1 cup grated Parmesan cheese",
+        "2 cloves Garlic, minced",
+        "1 tsp Salt",
+        "1/2 tsp Pepper"
+      ],
+      "instructions": [
+        "Cook the fettuccine in salted boiling water until al dente.",
+        "Melt butter in a pan and sauté garlic until fragrant.",
+        "Add heavy cream and simmer for 5 minutes.",
+        "Stir in Parmesan cheese until melted.",
+        "Combine pasta, chicken, and sauce.",
+        "Season with salt and pepper and serve."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Pasta Primavera",
+      "description": "Pasta with fresh vegetables.",
+      "ingredients": [
+        "12 oz Penne",
+        "1 Zucchini, sliced",
+        "1 Yellow squash, sliced",
+        "1 Red bell pepper, sliced",
+        "1 cup Cherry tomatoes, halved",
+        "2 cloves Garlic, minced",
+        "1/4 cup Olive oil",
+        "1/4 cup grated Parmesan cheese",
+        "1 tsp Salt",
+        "1/2 tsp Pepper"
+      ],
+      "instructions": [
+        "Cook the penne in salted boiling water until al dente.",
+        "Sauté garlic in olive oil until fragrant.",
+        "Add zucchini, yellow squash, and bell pepper and cook until tender.",
+        "Add cherry tomatoes and cook until softened.",
+        "Combine pasta and vegetables.",
+        "Garnish with Parmesan cheese and serve."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Baked Ziti",
+      "description": "Pasta baked with tomato sauce and cheese.",
+      "ingredients": [
+        "12 oz Ziti",
+        "2 cups Tomato sauce",
+        "2 cups shredded Mozzarella cheese",
+        "1 cup Ricotta cheese",
+        "1/2 cup grated Parmesan cheese",
+        "1/4 cup chopped Basil",
+        "1 tsp Salt",
+        "1/2 tsp Pepper"
+      ],
+      "instructions": [
+        "Cook the ziti in salted boiling water until al dente.",
+        "Combine ziti, tomato sauce, ricotta cheese, and half of the mozzarella cheese.",
+        "Transfer to a baking dish and top with remaining mozzarella cheese and Parmesan cheese.",
+        "Bake at 375°F for 20 minutes until bubbly and golden.",
+        "Garnish with basil and serve."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Stuffed Shells",
+      "description": "Pasta shells stuffed with cheese and baked in tomato sauce.",
+      "ingredients": [
+        "12 oz Jumbo pasta shells",
+        "2 cups Ricotta cheese",
+        "1 cup shredded Mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "1 Egg",
+        "2 cups Tomato sauce",
+        "1/4 cup chopped Basil",
+        "1 tsp Salt",
+        "1/2 tsp Pepper"
+      ],
+      "instructions": [
+        "Cook the pasta shells in salted boiling water until al dente.",
+        "Mix ricotta cheese, mozzarella cheese, Parmesan cheese, egg, salt, and pepper in a bowl.",
+        "Stuff each shell with the cheese mixture.",
+        "Spread a layer of tomato sauce in a baking dish and arrange stuffed shells on top.",
+        "Cover with remaining tomato sauce and bake at 375°F for 20 minutes until bubbly.",
+        "Garnish with basil and serve."
+      ]
+    }
+  ]

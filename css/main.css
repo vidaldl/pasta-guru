@@ -1,0 +1,41 @@
+/* Set the global font family to Roboto */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Add a fade-in animation to the container */
+.container {
+  animation: fadeIn 0.7s ease-in;
+}
+
+/* Define the fade-in animation */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Add hover effect to buttons */
+.btn-primary:hover {
+  background-color: #ff6347;
+  transition: background-color 0.5s;
+}
+
+/* Style the headings */
+h1, h3 {
+  color: #2c3e50;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/* Enhance the list items */
+.list-group-item {
+  border: none;
+  border-bottom: 1px solid #eee;
+  transition: background-color 0.3s;
+}
+
+.list-group-item:hover {
+  background-color: #f9f9f9;
+}
+
+/* ...existing code... */
