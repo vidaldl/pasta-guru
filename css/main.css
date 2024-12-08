@@ -1,38 +1,41 @@
-/** Main CSS file */
-
+/* Set the global font family to Roboto */
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
-  line-height: 1.6;
-  color: #333;
-  background-color: #f4f4f4;
-  margin: 0;
-  padding: 0;
+  font-family: 'Roboto', sans-serif;
 }
 
-
-h1 {
-  font-size: 24px;
-  margin: 0 0 20px 0;
-  padding: 0;
+/* Add a fade-in animation to the container */
+.container {
+  animation: fadeIn 0.7s ease-in;
 }
 
-h2 {
-  font-size: 20px;
-  margin: 0 0 20px 0;
-  padding: 0;
+/* Define the fade-in animation */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
 }
 
-h3 {
-  font-size: 18px;
-  margin: 0 0 20px 0;
-  padding: 0;
+/* Add hover effect to buttons */
+.btn-primary:hover {
+  background-color: #ff6347;
+  transition: background-color 0.5s;
 }
 
-/* 
-    Responsive Layout
-    ----------------
-    Comments
-    
-*/
+/* Style the headings */
+h1, h3 {
+  color: #2c3e50;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
 
+/* Enhance the list items */
+.list-group-item {
+  border: none;
+  border-bottom: 1px solid #eee;
+  transition: background-color 0.3s;
+}
+
+.list-group-item:hover {
+  background-color: #f9f9f9;
+}
+
+/* ...existing code... */
