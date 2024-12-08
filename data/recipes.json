@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "description": "A classic Roman pasta dish.",
+      "ingredients": ["Spaghetti", "Egg yolks", "Parmesan cheese", "Guanciale", "Black pepper"],
+      "instructions": ["Cook the spaghetti in salted boiling water.", "Fry the guanciale until crispy.", "Mix egg yolks and Parmesan cheese in a bowl.", "Combine pasta, guanciale, and egg mixture.", "Season with black pepper and serve."]
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti Bolognese",
+      "description": "A rich and hearty meat sauce.",
+      "ingredients": ["Spaghetti", "Ground beef", "Tomato sauce", "Onion", "Garlic", "Carrot", "Celery", "Olive oil", "Salt", "Pepper"],
+      "instructions": ["Cook the spaghetti in salted boiling water.", "Sauté onion, garlic, carrot, and celery in olive oil.", "Add ground beef and cook until browned.", "Add tomato sauce and simmer.", "Combine pasta and sauce.", "Season with salt and pepper and serve."]
+    },
+    {
+      "id": 3,
+      "name": "Penne Arrabbiata",
+      "description": "A spicy tomato sauce with penne pasta.",
+      "ingredients": ["Penne", "Tomato sauce", "Garlic", "Red chili flakes", "Olive oil", "Parsley", "Salt"],
+      "instructions": ["Cook the penne in salted boiling water.", "Sauté garlic and red chili flakes in olive oil.", "Add tomato sauce and simmer.", "Combine pasta and sauce.", "Garnish with parsley and serve."]
+    },
+    {
+      "id": 4,
+      "name": "Fettuccine Alfredo",
+      "description": "A creamy white sauce with fettuccine pasta.",
+      "ingredients": ["Fettuccine", "Butter", "Heavy cream", "Parmesan cheese", "Garlic", "Salt", "Pepper"],
+      "instructions": ["Cook the fettuccine in salted boiling water.", "Melt butter in a pan and sauté garlic.", "Add heavy cream and simmer.", "Stir in Parmesan cheese until melted.", "Combine pasta and sauce.", "Season with salt and pepper and serve."]
+    },
+    {
+      "id": 5,
+      "name": "Lasagna",
+      "description": "Layered pasta with meat and cheese.",
+      "ingredients": ["Lasagna noodles", "Ground beef", "Tomato sauce", "Ricotta cheese", "Mozzarella cheese", "Parmesan cheese", "Egg", "Onion", "Garlic", "Olive oil", "Salt", "Pepper"],
+      "instructions": ["Cook the lasagna noodles in salted boiling water.", "Sauté onion and garlic in olive oil.", "Add ground beef and cook until browned.", "Add tomato sauce and simmer.", "Mix ricotta cheese, egg, and Parmesan cheese in a bowl.", "Layer noodles, meat sauce, ricotta mixture, and mozzarella cheese in a baking dish.", "Bake until bubbly and golden.", "Let cool and serve."]
+    },
+    {
+      "id": 6,
+      "name": "Pesto Pasta",
+      "description": "Pasta with a fresh basil pesto sauce.",
+      "ingredients": ["Pasta", "Basil", "Pine nuts", "Parmesan cheese", "Garlic", "Olive oil", "Salt", "Pepper"],
+      "instructions": ["Cook the pasta in salted boiling water.", "Blend basil, pine nuts, Parmesan cheese, garlic, and olive oil in a food processor.", "Combine pasta and pesto sauce.", "Season with salt and pepper and serve."]
+    },
+    {
+      "id": 7,
+      "name": "Macaroni and Cheese",
+      "description": "A creamy and cheesy pasta dish.",
+      "ingredients": ["Macaroni", "Cheddar cheese", "Milk", "Butter", "Flour", "Salt", "Pepper"],
+      "instructions": ["Cook the macaroni in salted boiling water.", "Melt butter in a pan and stir in flour to make a roux.", "Add milk and cook until thickened.", "Stir in cheddar cheese until melted.", "Combine pasta and cheese sauce.", "Season with salt and pepper and serve."]
+    },
+    {
+      "id": 8,
+      "name": "Ravioli with Marinara Sauce",
+      "description": "Stuffed pasta with a rich tomato sauce.",
+      "ingredients": ["Ravioli", "Tomato sauce", "Garlic", "Onion", "Olive oil", "Basil", "Salt", "Pepper"],
+      "instructions": ["Cook the ravioli in salted boiling water.", "Sauté garlic and onion in olive oil.", "Add tomato sauce and simmer.", "Combine pasta and sauce.", "Garnish with basil and serve."]
+    },
+    {
+      "id": 9,
+      "name": "Linguine with Clam Sauce",
+      "description": "Pasta with a savory clam sauce.",
+      "ingredients": ["Linguine", "Clams", "Garlic", "White wine", "Olive oil", "Parsley", "Salt", "Pepper"],
+      "instructions": ["Cook the linguine in salted boiling water.", "Sauté garlic in olive oil.", "Add clams and white wine and cook until clams open.", "Combine pasta and clam sauce.", "Garnish with parsley and serve."]
+    },
+    {
+      "id": 10,
+      "name": "Tortellini Alfredo",
+      "description": "Cheese-filled pasta with a creamy Alfredo sauce.",
+      "ingredients": ["Tortellini", "Butter", "Heavy cream", "Parmesan cheese", "Garlic", "Salt", "Pepper"],
+      "instructions": ["Cook the tortellini in salted boiling water.", "Melt butter in a pan and sauté garlic.", "Add heavy cream and simmer.", "Stir in Parmesan cheese until melted.", "Combine pasta and sauce.", "Season with salt and pepper and serve."]
+    }
+  ]
