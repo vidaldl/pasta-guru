@@ -1,4 +1,4 @@
-/* Set the global font family to Roboto */
+
 body {
   font-family: 'Roboto', sans-serif;
 }
@@ -37,5 +37,3 @@ h1, h3 {
 .list-group-item:hover {
   background-color: #f9f9f9;
 }
-
-/* ...existing code... */
